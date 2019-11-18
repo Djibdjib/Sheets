@@ -24,6 +24,9 @@ Lorsque vous avez beaucoup de lignes, il est parfois judicieux d'avoir affiché 
 ```
 Afficher -> Figer -> 1 ou plusieures lignes
 ```
+
+![Figer](images/figer.png)
+
 C'est également pratique pour garder un tableau de données sous les yeux.
 
 #### Ajouter des onglets (nouvelles feuilles de calcul)
